@@ -1,20 +1,23 @@
 # Carousel Factory
 
-Automated social media carousel generation for LinkedIn, Instagram, and engagement bait content
+**Automated social media carousel generation for LinkedIn, Instagram, and engagement bait content**
 
-## Highlights
+## Tech Stack
+
+python
+
+## Key Points
 
 - Auto-generates visual carousels from content
 - Engagement-optimized formatting
 - Multi-platform carousel output
 
-## Tech
+## Files
 
-- **python**
+- `carousel_factory.py` (14KB)
 
-## Part Of
+## Part of Printmaxx (Meta Business System)
 
-[PRINTMAXX Starter Kit](https://github.com/fnsmdehip/printmaxx-starter-kit) — Autonomous revenue operating system
+This is a subsystem of [Printmaxx](https://github.com/fnsmdehip/printmaxx-starter-kit), a 27GB autonomous revenue operating system with 33 agents, 394 scripts, and 5,277 scored revenue methods.
 
----
-*[DEVPRINT](https://github.com/fnsmdehip/devprint) — 50+ projects built through AI-native development*
+[Full Portfolio](https://devprint-portfolio.surge.sh) | [System Architecture](https://builders-portfolio.surge.sh)
